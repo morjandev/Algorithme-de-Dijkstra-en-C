@@ -47,4 +47,4 @@ Ce projet implémente l’algorithme de **Dijkstra** en langage **C**, permettan
 
 ### 🛠️ Compilation
 ```bash
-gcc Les_Graphes.c -o dijkstra
+gcc Dijkstra.c -o dijkstra
