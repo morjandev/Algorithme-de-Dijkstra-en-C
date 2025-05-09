@@ -8,7 +8,7 @@ Ce projet implémente l’algorithme de **Dijkstra** en langage **C**, permettan
 
 ## 🗂️ Structure du projet
 
-- `Les_Graphes.c` : Contient l’ensemble du code source (initialisation, affichage, Dijkstra, etc.)
+- `Dijkstra.c` : Contient l’ensemble du code source (initialisation, affichage, Dijkstra, etc.)
 - `README.md` : Ce fichier de documentation
 - *(optionnel)* `graph.txt` : Fichier de test externe (non requis ici)
 
